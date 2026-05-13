@@ -26,18 +26,31 @@
 # Features
 
 ✮ Phone number parsing and validation using phonenumbers
+
 ✮ Automatic country and region detection from phone numbers
+
 ✮ Carrier (telecom operator) identification
+
 ✮ Geolocation lookup using OpenCage Geocoding API
+
 ✮ Automatic extraction of latitude and longitude coordinates
+
 ✮ Time zone and currency information retrieval
+
 ✮ Interactive Google Maps link generation
+
 ✮ Automatic map creation using folium
+
 ✮ Marker placement on exact detected location
+
 ✮ HTML map export for offline viewing
+
 ✮ Automatic browser opening with Google Maps location
+
 ✮ Clean CLI interface with ASCII banner
+
 ✮ Error handling for invalid or unknown numbers
+
 ✮ Multi-language support for geocoder output (Spanish)
 
 ---
