@@ -83,8 +83,8 @@ This project is intended strictly for:
 * Authorized testing
 * this disclaimer its joke LOL :)
 
-## 🎥 Video Showcase
-Click below to watch the video directly from the repository:
+## 🎥 photo showcase
+Preview photo of the tool:
 
 <img width="1313" height="611" alt="image" src="https://github.com/user-attachments/assets/f1303228-913f-435c-ac20-4d6911caef07" />
 
